@@ -6,7 +6,7 @@ Simple but useful jQuery snippets I've written.
 
 
 
-jquery-sameHeight
+sameHeight
 -----------------
 
 jQuery plugin that let user set same height for multiple elements with same class
